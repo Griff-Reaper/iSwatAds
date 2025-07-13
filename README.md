@@ -1,2 +1,2 @@
 # iSwatAds
-An adblocker Google Chrome extension for Youtube
+An ad-blocking Google Chrome extension for Youtube
